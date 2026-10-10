@@ -21,15 +21,12 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Actividad y Métricas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielbarreramunoz&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielbarreramunoz&theme=react-dark&hide_border=true" alt="Gráfico de Actividad de Daniel" width="100%" />
 </p>
 
-
----
-
-### 📈 Gráfico de Actividad Total
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielbarreramunoz&theme=react-dark&hide_border=true)](https://github.com/ashutosh00712/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielbarreramunoz&theme=radical&hide_border=true" alt="Racha de Commits" />
+</p>
