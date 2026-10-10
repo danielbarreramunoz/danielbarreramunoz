@@ -26,3 +26,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielbarreramunoz&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
+
+
+---
+
+### 📈 Gráfico de Actividad Total
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielbarreramunoz&theme=react-dark&hide_border=true)](https://github.com/ashutosh00712/github-readme-activity-graph)
