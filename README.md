@@ -28,5 +28,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielbarreramunoz&theme=radical&hide_border=true" alt="Racha de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielbarreramunoz&theme=radical&hide_border=true&timezone=America%2FSantiago" alt="Racha de Commits" />
 </p>
